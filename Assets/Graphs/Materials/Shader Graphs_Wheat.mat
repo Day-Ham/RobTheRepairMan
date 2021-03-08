@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Wheat
+  m_Shader: {fileID: -6465566751694194690, guid: 3864cb7c98f26ae41994c807eb51267d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_32B745DC:
+        m_Texture: {fileID: 2800000, guid: 6b975f0c0b207de4495ffa4b7a5d0e98, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_50637DAA: -0.56
+    - Vector1_C0571940: -0.23
+    m_Colors:
+    - Vector2_90B8CF3: {r: 6, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

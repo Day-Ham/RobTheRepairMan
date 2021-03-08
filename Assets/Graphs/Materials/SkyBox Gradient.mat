@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkyBox Gradient
+  m_Shader: {fileID: -6465566751694194690, guid: 7c509e36c8c38a44fb020876453bcf4a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Clouds_3756E65D_Texture2DA8B4834B_1470739737:
+        m_Texture: {fileID: 2800000, guid: a1a1e8699ae76a04baaebd9df0363977, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3580AA86: -1
+    - Vector1_E2A44530: 0.7
+    - Vector1_E866A25A: 0.74
+    m_Colors:
+    - Color_22E0C94: {r: 0.4209892, g: 0.5236989, b: 0.5687276, a: 1}
+    - Color_4CD6C77D: {r: 0.48081493, g: 0, b: 0.9782473, a: 1}
+    - Color_FA3767F3: {r: 1, g: 0.6156863, b: 0, a: 1}
+    - Vector2_80DD2827: {r: 0.5, g: 0.075, b: 0, a: 0}
+    - Vector2_896DC1FD: {r: 0.52, g: 0.27, b: 0, a: 0}
+  m_BuildTextureStacks: []
